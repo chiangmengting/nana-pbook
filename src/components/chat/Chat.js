@@ -116,8 +116,6 @@ class Chat extends React.Component {
                                             )
                                         })
                                     }
-
-
                                 </Tab.Content>
                             </Col>
                         </Row>
